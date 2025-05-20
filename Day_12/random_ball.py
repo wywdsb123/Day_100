@@ -17,3 +17,4 @@ def display(balls):
 n = int(input("生成几注号码："))
 for _ in range(n):
     display(choose())
+
